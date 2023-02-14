@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="112px" height="112px" viewBox="0 0 112 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="presentation" aria-hidden="true">
+    <title>✳︎</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="✳︎" transform="translate(0.296875, 0.984375)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="111.25 58.984375 60.859375 57.578125 97.5 92.109375 92.34375 97.265625 57.8125 60.625 59.21875 111.015625 52.03125 111.015625 53.4375 60.625 18.90625 97.265625 13.75 92.109375 50.390625 57.578125 0 58.984375 0 51.796875 50.390625 53.4375 13.75 18.828125 18.90625 13.75 53.4375 50.390625 52.03125 0 59.21875 0 57.8125 50.390625 92.34375 13.75 97.5 18.828125 60.859375 53.4375 111.25 52.03125"></polygon>
+
+        </g>
+        <animateTransform attributeName="transform" type="rotate" from="0 56 56" to="360 56 56" dur="1800ms" repeatCount="indefinite"/>
+    </g>
+</svg>

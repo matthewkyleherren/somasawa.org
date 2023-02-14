@@ -9,23 +9,23 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/app/themes/motto/static/assets/images/icons/cropped-MOT-Flag-32x32.png",
+      "src": "/assets/images/icons/cropped-MOT-Flag-32x32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "/app/themes/motto/static/assets/images/icons/cropped-MOT-Flag-180x180.png",
+      "src": "/assets/images/icons/cropped-MOT-Flag-180x180.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "/app/themes/motto/static/assets/images/icons/cropped-MOT-Flag-192x192.png",
+      "src": "/assets/images/icons/cropped-MOT-Flag-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/app/themes/motto/static/assets/images/icons/icon-logo-512x512.png",
+      "src": "/assets/images/icons/icon-logo-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
